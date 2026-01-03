@@ -5,7 +5,7 @@
 ## 📌 Project Overview
 This project utilizes **YOLOv11-OBB (Oriented Bounding Box)** to detect objects in high-resolution satellite imagery. Unlike standard detection, this model predicts **rotated bounding boxes**, allowing it to accurately detect diagonal objects like ships, bridges, and vehicles in dense environments.
 
-## 📊 Key Results (Epoch 10)
+## 📊 Key Results (Up-To Epoch 30 In Batch of 10)
 * **mAP@0.50:** 87.5%
 * **Precision:** 87.4%
 * **Recall:** 82.5%
