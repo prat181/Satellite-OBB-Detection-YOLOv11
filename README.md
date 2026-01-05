@@ -18,6 +18,7 @@ This project utilizes **YOLOv11-OBB (Oriented Bounding Box)** to detect objects 
 * **Algorithm:** Oriented Non-Maximum Suppression (ONMS)
 
 ## 📂 Dataset Analysis
+**📥 Dataset Source:** [Download the Dataset from Kaggle](https://www.kaggle.com/datasets/redzapdos123/dior-r-dataset-yolov11-obb-format)
 The model handles severe class imbalance using advanced augmentation:
 * **Dominant Class:** Ships (48k+ instances)
 * **Rare Class:** Train Stations (~800 instances)
